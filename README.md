@@ -1,3 +1,4 @@
+
 # 🤖 Suraksha-AI: Guarding Motherhood with Intelligence
 
 ## 🌟 Overview
@@ -143,7 +144,4 @@ We participated in **ClodeClash 2.0 Hackathon**, aiming to create real-world sol
 ## 🔗 Useful Links
 
 * [Presentation Slides](https://www.canva.com/design/DAGqIoSQXW8/igmnEN9ccqxdGMc0CiniXw/edit?utm_content=DAGqIoSQXW8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-* [Link](http://127.0.0.1:5500/SURAKSH/frontend/index.html)
-
----
 
