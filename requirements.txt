@@ -1,6 +1,6 @@
-flask
-numpy
-opencv-python
+Flask
+flask-cors
 scikit-learn
-joblib
+opencv-python
+numpy
 Pillow
