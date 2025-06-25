@@ -51,6 +51,10 @@ def predict_image():
         }
     })
 
+@app.route('/test-css')
+def test_css():
+    return '<link rel="stylesheet" href="/static/styles.css"><div class="screen">CSS?</div>'
+
 # Let Render assign port
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
